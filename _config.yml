@@ -2,9 +2,7 @@
 title:              EmoDB
 bio:                'Store your feelings here!'
 description:        > # this means to ignore newlines until "reading_time:"
-                    Write an awesome description for your new site here. You can edit this
-                    line in _config.yml. It will appear in your document head meta (for
-                    Google search results) and in your feed.xml site description.
+                    A distributed database with a built in streaming data platform.
 reading_time:       true
 words_per_minute:   50
 logo:               'images/emodblogo.svg'
