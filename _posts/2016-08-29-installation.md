@@ -10,7 +10,7 @@ type: [blog]
 Installation
 ============
 
-So you've gone through the [Quick Start](https://github.com/bazaarvoice/emodb#quick-start), run EmoDB locally,
+So you've gone through the [Quick Start](../quickstart), run EmoDB locally,
 and are ready to try it out in a small-scale environment.  This document describes the minimum amount of
 setup required and some guidelines on setting up your first "real world" EmoDB cluster.
 
